@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on 週休五日</title>
+    <link>https://haru0017.github.io/blog/posts/</link>
+    <description>Recent content in Posts on 週休五日</description>
+    <generator>Hugo -- 0.153.5</generator>
+    <language>ja-jp</language>
+    <lastBuildDate>Tue, 30 Dec 2025 21:49:58 +0900</lastBuildDate>
+    <atom:link href="https://haru0017.github.io/blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>@haru0017 ブログ始めるってよ</title>
+      <link>https://haru0017.github.io/blog/posts/hello/</link>
+      <pubDate>Tue, 30 Dec 2025 21:49:58 +0900</pubDate>
+      <guid>https://haru0017.github.io/blog/posts/hello/</guid>
+      <description>&lt;p&gt;まだ東京で消耗してるの？&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

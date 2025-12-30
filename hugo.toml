@@ -1,0 +1,8 @@
+baseURL = "https://haru0017.github.io/blog/"
+languageCode = "ja-jp"
+title = "週休五日"
+theme = "PaperMod"
+
+[params]
+  defaultTheme = "auto"
+  disableThemeToggle = true
