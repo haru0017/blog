@@ -8,11 +8,14 @@ on:
 permissions:
   contents: read
   pages: write
+  id-token: write
 
 
 jobs:
   deploy:
     runs-on: ubuntu-latest
+    environment:
+      name: github-pages
     steps:
       - uses: actions/checkout@v4
         with:
