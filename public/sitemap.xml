@@ -2,17 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://haru0017.github.io/blog/posts/hello/</loc>
+    <loc>http://localhost:1313/blog/posts/</loc>
+    <lastmod>2025-12-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/posts/2025-review/</loc>
+    <lastmod>2025-12-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/</loc>
+    <lastmod>2025-12-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/posts/hello/</loc>
     <lastmod>2025-12-30T21:49:58+09:00</lastmod>
   </url><url>
-    <loc>https://haru0017.github.io/blog/posts/</loc>
-    <lastmod>2025-12-30T21:49:58+09:00</lastmod>
+    <loc>http://localhost:1313/blog/categories/</loc>
   </url><url>
-    <loc>https://haru0017.github.io/blog/</loc>
-    <lastmod>2025-12-30T21:49:58+09:00</lastmod>
-  </url><url>
-    <loc>https://haru0017.github.io/blog/categories/</loc>
-  </url><url>
-    <loc>https://haru0017.github.io/blog/tags/</loc>
+    <loc>http://localhost:1313/blog/tags/</loc>
   </url>
 </urlset>

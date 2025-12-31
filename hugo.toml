@@ -6,3 +6,5 @@ theme = "PaperMod"
 [params]
   defaultTheme = "auto"
   disableThemeToggle = true
+  disableSpecial1stPost = true
+  googleAnalytics = "G-S7L55YTC7R"
