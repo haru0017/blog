@@ -3,13 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/blog/posts/</loc>
-    <lastmod>2025-12-31T00:00:00+00:00</lastmod>
+    <lastmod>2026-01-01T10:13:51+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/posts/2025-review/</loc>
-    <lastmod>2025-12-31T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/blog/posts/type1-scholarship-not-keeping-up-with-inflation/</loc>
+    <lastmod>2026-01-01T10:13:51+09:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/</loc>
-    <lastmod>2025-12-31T00:00:00+00:00</lastmod>
+    <lastmod>2026-01-01T10:13:51+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/posts/2025-review/</loc>
+    <lastmod>2025-12-31T19:59:24+09:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/posts/hello/</loc>
     <lastmod>2025-12-30T21:49:58+09:00</lastmod>
