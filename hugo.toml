@@ -3,6 +3,10 @@ languageCode = "ja-jp"
 title = "週休五日"
 theme = "PaperMod"
 
+[outputs]
+  home = ["HTML", "RSS"]
+  section = ["HTML", "RSS"]
+
 [params]
   defaultTheme = "auto"
   disableThemeToggle = true
