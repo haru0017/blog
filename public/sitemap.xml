@@ -2,13 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/blog/posts/</loc>
-    <lastmod>2026-01-01T10:13:51+09:00</lastmod>
+    <loc>http://localhost:1313/blog/posts/how-to-make-free-time-2026/</loc>
+    <lastmod>2026-01-02T15:09:31+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/posts/type1-scholarship-not-keeping-up-with-inflation/</loc>
-    <lastmod>2026-01-01T10:13:51+09:00</lastmod>
+    <loc>http://localhost:1313/blog/posts/</loc>
+    <lastmod>2026-01-02T15:09:31+09:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/</loc>
+    <lastmod>2026-01-02T15:09:31+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/posts/type1-scholarship-not-keeping-up-with-inflation/</loc>
     <lastmod>2026-01-01T10:13:51+09:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/posts/2025-review/</loc>
